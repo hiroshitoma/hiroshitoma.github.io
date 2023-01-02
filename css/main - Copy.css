@@ -1,11 +1,11 @@
 /* Global styles */
 body {
     font-family: "Raleway";
-    background-color:  #ecf0f1;
+    /* background-color: #3a3d3c; */
 }
 
 a {
-    color: blue;
+    color: #5188ef;
     transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
     -webkit-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
     -moz-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
@@ -14,7 +14,7 @@ a {
 }
 
 a:hover {
-    color: blue;
+    color: #7e7ef7;
 }
 
 /* Partial: Colors */
@@ -118,9 +118,9 @@ a:hover {
 
 .content .markdown {
     font-family: "Merriweather";
-    font-size: 1.2em;
-    line-height: 1.7em;
-    color: Black;
+    font-size: 1.3em;
+    line-height: 1.75em;
+    color: #313537;
 }
 
 .content twitterwidget {
